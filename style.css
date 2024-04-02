@@ -1,0 +1,20 @@
+body{
+    background-image: url(yog.png);
+}
+#formdiv{
+margin-left: 400px;
+backface-visibility: hidden;
+
+width: 500px;
+}
+div{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    pla
+  
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+   border-color: black;
+}
